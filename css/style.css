@@ -1004,7 +1004,6 @@ p {
 .hero-banner .banner-profile-img {
   z-index: 77;
   position: relative;
-  animation: right-to-left 1.5s forwards;
 }
 
 .hero-banner .banner-profile-img:before {
